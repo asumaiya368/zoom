@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://digitalpreservation-docs.lib.cam.ac.uk/sitemap.xml
